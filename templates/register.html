@@ -1,8 +1,123 @@
-<form method="POST" action="/register">
-    Username: <input type="text" name="username"><br>
-    Password: <input type="password" name="password"><br>
-    First Name: <input type="text" name="firstname"><br>
-    Last Name: <input type="text" name="lastname"><br>
-    Email: <input type="text" name="email"><br>
-    <input type="submit" value="Register">
-</form>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <style>
+        body, html {
+            font-family: Arial, sans-serif;
+            background: #34495e; /* Light blue background color */
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+        }
+
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100%;
+        }
+        .container1-center{
+                max-width: 900px;
+                width: 90%;
+                max-height: 100vh;
+                overflow-y: auto;
+                background-color: rgba(255,255,255,0.95);
+                border-radius: 15px;
+                padding: 20px;
+                backdrop-filter: blur(15px);
+        }
+        .container1-center h1{
+            color: #333;
+            text-align: center;
+            margin-bottom: 20 px;
+        }
+        div {
+            border-radius: 5px;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 400px; /* Decreased container width */
+            margin-top: 10px;
+        }
+
+        h1, label {
+            color: black;
+        }
+
+        input {
+            width: 70%;
+            padding: 8px;
+            margin-bottom: 2px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 2px;
+        }
+
+        .input-group {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+        }
+
+        .input-group label {
+            width: 28%; 
+        }
+
+        button {
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container1-center">
+        <h1>Registration Page</h1>
+        <div>
+            <form action="{{url_for('registration')}}" method="POST" enctype="multipart/form-data">
+                <div class="input-group">
+                    <label>User Name : </label><input id="username" name="username" type="text" placeholder="User Name" />
+                </div>
+                <div class="input-group">
+                    <label>Password : </label><input id="password" name="password" type="password" placeholder="Password" />
+                </div>
+                <div class="input-group">
+                    <label>First Name:</label><input id="firstname" name="firstname" type="text" placeholder="First Name" />
+                    </div>
+                    <div class="input-group">
+                    <label>Last Name:</label><input id="lastname" name="lastname" type="text" placeholder="Last Name" />
+                </div>
+                <div class="input-group">
+                    <label>Email:</label><input id="email" name="email" type="text" placeholder="Email" />
+                </div>
+                <div class="input-group">
+                    <label>Upload File:</label><input type="file" id="textfile" name="textfile" />
+                </div>
+                <button id="submit" name="submit">Register</button>
+            </form>
+        </div>
+        <p>Already have an account? Please click <a href="{{url_for('login')}}">here to login</a></p>
+    </div>
+</body>
+</html>
