@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1739733439,,"wq"
+|2,0,1739737683,,"wq"
 :wq!
 |2,0,1739728673,,"wq!"
 
@@ -27,36 +27,92 @@
 # Registers:
 
 # File marks:
-'0  123  6  ~/templates/register.html
-|4,48,123,6,1739733439,"~/templates/register.html"
-'1  123  6  ~/templates/register.html
-|4,49,123,6,1739733356,"~/templates/register.html"
-'2  77  6  ~/templates/profile.html
-|4,50,77,6,1739733220,"~/templates/profile.html"
-'3  1  0  ~/templates/profile.html
-|4,51,1,0,1739733190,"~/templates/profile.html"
-'4  1  0  ~/templates/profile.html
-|4,52,1,0,1739733190,"~/templates/profile.html"
-'5  197  10  ~/flaskapp.py
-|4,53,197,10,1739728673,"~/flaskapp.py"
-'6  1  10  ~/flaskapp.py
-|4,54,1,10,1739723382,"~/flaskapp.py"
-'7  1  10  ~/flaskapp.py
-|4,55,1,10,1739723382,"~/flaskapp.py"
-'8  1  10  ~/flaskapp.py
-|4,56,1,10,1739678587,"~/flaskapp.py"
-'9  1  10  ~/flaskapp.py
-|4,57,1,10,1739678587,"~/flaskapp.py"
+'0  92  0  ~/templates/profile.html
+|4,48,92,0,1739737683,"~/templates/profile.html"
+'1  1  1520  ~/templates/profile.html
+|4,49,1,1520,1739737652,"~/templates/profile.html"
+'2  68  27  ~/templates/profile.html
+|4,50,68,27,1739737652,"~/templates/profile.html"
+'3  123  0  ~/templates/register.html
+|4,51,123,0,1739737409,"~/templates/register.html"
+'4  1  3636  ~/templates/register.html
+|4,52,1,3636,1739733439,"~/templates/register.html"
+'5  123  6  ~/templates/register.html
+|4,53,123,6,1739733439,"~/templates/register.html"
+'6  1  3636  ~/templates/register.html
+|4,54,1,3636,1739733356,"~/templates/register.html"
+'7  123  6  ~/templates/register.html
+|4,55,123,6,1739733356,"~/templates/register.html"
+'8  101  6  ~/templates/profile.html
+|4,56,101,6,1739733220,"~/templates/profile.html"
+'9  77  6  ~/templates/profile.html
+|4,57,77,6,1739733220,"~/templates/profile.html"
 
 # Jumplist (newest first):
+-'  92  0  ~/templates/profile.html
+|4,39,92,0,1739737683,"~/templates/profile.html"
+-'  1  1520  ~/templates/profile.html
+|4,39,1,1520,1739737654,"~/templates/profile.html"
+-'  68  27  ~/templates/profile.html
+|4,39,68,27,1739737652,"~/templates/profile.html"
+-'  123  0  ~/templates/register.html
+|4,39,123,0,1739737409,"~/templates/register.html"
+-'  123  0  ~/templates/register.html
+|4,39,123,0,1739737409,"~/templates/register.html"
+-'  123  0  ~/templates/register.html
+|4,39,123,0,1739737409,"~/templates/register.html"
+-'  123  0  ~/templates/register.html
+|4,39,123,0,1739737409,"~/templates/register.html"
+-'  1  3636  ~/templates/register.html
+|4,39,1,3636,1739737296,"~/templates/register.html"
+-'  1  3636  ~/templates/register.html
+|4,39,1,3636,1739737296,"~/templates/register.html"
+-'  1  3636  ~/templates/register.html
+|4,39,1,3636,1739737296,"~/templates/register.html"
+-'  1  3636  ~/templates/register.html
+|4,39,1,3636,1739737296,"~/templates/register.html"
 -'  123  6  ~/templates/register.html
 |4,39,123,6,1739733439,"~/templates/register.html"
+-'  123  6  ~/templates/register.html
+|4,39,123,6,1739733439,"~/templates/register.html"
+-'  123  6  ~/templates/register.html
+|4,39,123,6,1739733439,"~/templates/register.html"
+-'  123  6  ~/templates/register.html
+|4,39,123,6,1739733439,"~/templates/register.html"
+-'  123  6  ~/templates/register.html
+|4,39,123,6,1739733356,"~/templates/register.html"
+-'  123  6  ~/templates/register.html
+|4,39,123,6,1739733356,"~/templates/register.html"
+-'  123  6  ~/templates/register.html
+|4,39,123,6,1739733356,"~/templates/register.html"
 -'  123  6  ~/templates/register.html
 |4,39,123,6,1739733356,"~/templates/register.html"
 -'  1  0  ~/templates/register.html
 |4,39,1,0,1739733284,"~/templates/register.html"
 -'  1  0  ~/templates/register.html
 |4,39,1,0,1739733284,"~/templates/register.html"
+-'  1  0  ~/templates/register.html
+|4,39,1,0,1739733284,"~/templates/register.html"
+-'  1  0  ~/templates/register.html
+|4,39,1,0,1739733284,"~/templates/register.html"
+-'  1  0  ~/templates/register.html
+|4,39,1,0,1739733284,"~/templates/register.html"
+-'  1  0  ~/templates/register.html
+|4,39,1,0,1739733284,"~/templates/register.html"
+-'  1  0  ~/templates/register.html
+|4,39,1,0,1739733284,"~/templates/register.html"
+-'  1  0  ~/templates/register.html
+|4,39,1,0,1739733284,"~/templates/register.html"
+-'  101  6  ~/templates/profile.html
+|4,39,101,6,1739733220,"~/templates/profile.html"
+-'  77  6  ~/templates/profile.html
+|4,39,77,6,1739733220,"~/templates/profile.html"
+-'  77  6  ~/templates/profile.html
+|4,39,77,6,1739733220,"~/templates/profile.html"
+-'  77  6  ~/templates/profile.html
+|4,39,77,6,1739733220,"~/templates/profile.html"
+-'  77  6  ~/templates/profile.html
+|4,39,77,6,1739733220,"~/templates/profile.html"
 -'  77  6  ~/templates/profile.html
 |4,39,77,6,1739733220,"~/templates/profile.html"
 -'  77  6  ~/templates/profile.html
@@ -73,6 +129,24 @@
 |4,39,1,0,1739733191,"~/templates/profile.html"
 -'  1  0  ~/templates/profile.html
 |4,39,1,0,1739733191,"~/templates/profile.html"
+-'  1  0  ~/templates/profile.html
+|4,39,1,0,1739733191,"~/templates/profile.html"
+-'  1  0  ~/templates/profile.html
+|4,39,1,0,1739733191,"~/templates/profile.html"
+-'  1  0  ~/templates/profile.html
+|4,39,1,0,1739733191,"~/templates/profile.html"
+-'  1  0  ~/templates/profile.html
+|4,39,1,0,1739733191,"~/templates/profile.html"
+-'  1  0  ~/templates/profile.html
+|4,39,1,0,1739733191,"~/templates/profile.html"
+-'  1  0  ~/templates/profile.html
+|4,39,1,0,1739733190,"~/templates/profile.html"
+-'  1  0  ~/templates/profile.html
+|4,39,1,0,1739733190,"~/templates/profile.html"
+-'  1  0  ~/templates/profile.html
+|4,39,1,0,1739733190,"~/templates/profile.html"
+-'  1  0  ~/templates/profile.html
+|4,39,1,0,1739733190,"~/templates/profile.html"
 -'  1  0  ~/templates/profile.html
 |4,39,1,0,1739733190,"~/templates/profile.html"
 -'  1  0  ~/templates/profile.html
@@ -113,160 +187,90 @@
 |4,39,197,10,1739728673,"~/flaskapp.py"
 -'  197  10  ~/flaskapp.py
 |4,39,197,10,1739728673,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739728664,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739723382,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  1  10  ~/flaskapp.py
-|4,39,1,10,1739678587,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
--'  99  10  ~/flaskapp.py
-|4,39,99,10,1739678557,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
+-'  197  10  ~/flaskapp.py
+|4,39,197,10,1739728673,"~/flaskapp.py"
 
 # History of marks within files (newest to oldest):
 
-> ~/templates/register.html
-	*	1739733437	0
-	"	123	6
-	^	123	7
-	.	123	6
-	+	123	6
-
 > ~/templates/profile.html
-	*	1739733219	0
-	"	77	6
-	^	77	7
-	.	77	6
+	*	1739737681	0
+	"	92	0
+	^	92	0
+	.	91	7
 	+	1	64
 	+	1	15
-	+	77	6
+	+	1	2079
+	+	1	1965
+	+	1	1493
+	+	91	7
+
+> ~/templates/register.html
+	*	1739737407	0
+	"	123	0
+	^	123	0
+	.	122	7
+	+	1	3630
+	+	122	7
 
 > ~/flaskapp.py
 	*	1739728670	0
